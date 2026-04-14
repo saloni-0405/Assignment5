@@ -2,4 +2,4 @@
 echo "This is a new file" > newfile.txt
 # C2: Modify txt file
 echo "Modified content" >> newfile.txt
-
+echo "Hotfix applied" >> newfile.txt
