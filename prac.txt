@@ -1,0 +1,3 @@
+# C1: Create new txt file
+echo "This is a new file" > newfile.txt
+
