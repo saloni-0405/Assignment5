@@ -1,3 +1,5 @@
 # C1: Create new txt file
 echo "This is a new file" > newfile.txt
+# C2: Modify txt file
+echo "Modified content" >> newfile.txt
 
